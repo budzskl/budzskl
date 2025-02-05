@@ -1,4 +1,4 @@
-# // Dawid Budz \\
+# -- Dawid Budz --
 
 **`Software Engineer | Game Dev | CS Student`**
 
