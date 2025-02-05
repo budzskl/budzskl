@@ -1,8 +1,8 @@
-# // Dawid Budz //
+# // Dawid Budz \\
 
 **`Software Engineer | Game Dev | CS Student`**
 
-I am a CS student and aspiring Game Developer. All my coding projects shown here are built from the ground up, from planning, designing and polishing to solve both real-world problems and create memorable experiences.
+I’m a **Computer Science student** and passionate **Game Developer**, building projects from the ground up—from **designing** and **coding** to **polishing and optimizing**. My focus is on **game development, software engineering, and problem-solving**, creating applications that merge technology with creativity. 
 ---
 
 ### **Programming Languages**
@@ -10,5 +10,5 @@ I am a CS student and aspiring Game Developer. All my coding projects shown here
 <br />
 
 ### **Game Development**
-<img src="https://skillicons.dev/icons?i=unity,unreal, godot" />
+<img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
 
