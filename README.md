@@ -2,7 +2,7 @@
 
 **`Software Engineer | Game Dev | CS Student`**
 
-<p>I’m a **Computer Science student** and passionate Game Developer, building projects from the ground up—from designing and coding to polishing and optimizing. My focus is on game development, software engineering, and problem-solving, creating applications that merge technology with creativity.</p>
+<p>I’m a Computer Science student and passionate Game Developer, specializing in designing, coding, and optimizing interactive experiences. With a focus on game development and software engineering, I build applications that merge technology with creativity—leveraging engines like Godot, Unity, and Unreal, along with languages such as GDScript, C++, and C# to craft engaging projects from the ground up.</p>
 
 ## **Programming Languages**
 
