@@ -8,10 +8,8 @@
 
 ---
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
-<br />
 
 ---
-
 ### **Game Development**
 <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
 
