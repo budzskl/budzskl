@@ -6,7 +6,9 @@
 
 Reach out to me:
 Linkedin: https://www.linkedin.com/in/dawid-budz/
+
 Email: dawidbudz01@gmail.com
+
 GitHub: https://github.com/budzskl
 
 </p>
