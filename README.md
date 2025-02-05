@@ -7,7 +7,8 @@
 ## **Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
+<img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
 
 ## **Game Development**
-<img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
+
 
