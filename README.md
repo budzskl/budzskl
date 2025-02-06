@@ -18,7 +18,7 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
       <td align="center" width="50%">
         <h2>Current Work</h2>
         
-🛠️ **Building:**
+## **Building:**
 
 [AutoApply](https://github.com/budzskl/auto-apply) – Revolutionizing the job search process with automation
 
@@ -27,7 +27,7 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
 - Built with Python and modern web automation tools
 - In active development, launching beta version soon
 
-📚 **Deep Diving Into:**
+## **Deep Diving Into:**
 
 - Building AI Behaviors
   - Experimenting with behavior trees
