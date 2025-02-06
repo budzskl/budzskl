@@ -44,34 +44,34 @@
   <!-- Background with circuit pattern -->
   <rect width="100%" height="100%" fill="url(#circuitPattern)"/>
   
-  <!-- Decorative circuit lines -->
-  <path class="circuit-line" d="M50,20 H200 V60 H400" stroke="#4CAF50" stroke-width="1" fill="none"/>
-  <path class="circuit-line" d="M750,20 H600 V60 H400" stroke="#4CAF50" stroke-width="1" fill="none"/>
+  <!-- Decorative circuit lines - moved down -->
+  <path class="circuit-line" d="M50,40 H200 V80 H400" stroke="#4CAF50" stroke-width="1" fill="none"/>
+  <path class="circuit-line" d="M750,40 H600 V80 H400" stroke="#4CAF50" stroke-width="1" fill="none"/>
   <path class="circuit-line" d="M50,180 H300 V140 H500" stroke="#4CAF50" stroke-width="1" fill="none"/>
   <path class="circuit-line" d="M750,180 H500 V140 H300" stroke="#4CAF50" stroke-width="1" fill="none"/>
   
-  <!-- Binary rain effect -->
+  <!-- Binary rain effect - repositioned -->
   <g class="binary-rain" fill="#4CAF50" opacity="0.2">
-    <text x="100" y="30" font-family="monospace">01001</text>
-    <text x="700" y="50" font-family="monospace">10110</text>
+    <text x="100" y="50" font-family="monospace">01001</text>
+    <text x="700" y="70" font-family="monospace">10110</text>
     <text x="200" y="170" font-family="monospace">11001</text>
     <text x="600" y="150" font-family="monospace">00101</text>
   </g>
   
-  <!-- Name -->
-  <text x="400" y="80" font-family="Orbitron" font-size="40" fill="#ffffff" text-anchor="middle" font-weight="bold">
+  <!-- Name - moved up -->
+  <text x="400" y="60" font-family="Orbitron" font-size="40" fill="#ffffff" text-anchor="middle" font-weight="bold">
     Dawid Budz
   </text>
   
-  <!-- Animated roles -->
+  <!-- Animated roles - adjusted spacing -->
   <g class="typing-text">
-    <text x="400" y="120" class="role-text" font-size="24" text-anchor="middle">
+    <text x="400" y="110" class="role-text" font-size="24" text-anchor="middle">
       Software Engineer | Game Dev | CS Student
     </text>
   </g>
   
-  <!-- Tech indicators -->
-  <g transform="translate(250, 160)">
+  <!-- Tech indicators - moved up slightly -->
+  <g transform="translate(250, 150)">
     <circle cx="0" cy="0" r="4" fill="#4CAF50">
       <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite" begin="0s"/>
     </circle>
