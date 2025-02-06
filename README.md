@@ -4,15 +4,8 @@
 ---
 
 ## Tech Stack  
-
-### Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
-</p>
-
-### Game Development  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,unity,unreal,godot" />
 </p>
 
 ---
