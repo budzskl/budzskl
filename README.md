@@ -44,8 +44,7 @@
 
 ## Now Playing on Spotify  
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=daweed.5&unique=true" alt="Spotify recently played">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=daweed.5&cover_image=true&theme=default&show_offline=false&background_color=121212" />
 </p>
----
 
 **Always building. Always learning.**
