@@ -12,7 +12,6 @@
 > **Software Engineer & Game Developer**  
 > **Passionate about AI, Graphics, & Automation**  
 > **Building cool projects in C++, Python, & GDScript**  
-> **Cyberpunk enthusiast. Dark mode always.**
 
 ---
 
