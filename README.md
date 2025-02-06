@@ -44,9 +44,8 @@
 
 ## Now Playing on Spotify  
 <p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/user/daweed.5" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=daweed.5&unique=true" alt="Spotify recently played">
 </p>
-
 ---
 
 **Always building. Always learning.**
