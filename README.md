@@ -1,14 +1,7 @@
 <h1 align="center">Dawid Budz</h1>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=F75C7E&center=true&vCenter=true&width=550&height=50&lines=Software+Engineer+%7C+Game+Dev;Building+Cool+Stuff+With+Code;Game+AI+%26+Automation+Enthusiast;Optimizing+Interactive+Experiences">
-</p>
-
----
-
-## Now Playing on Spotify  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=F75C7E&center=true&vCenter=true&width=550&height=50&lines=Software+Engineer+%7C+Game+Dev;Game+AI+%26+Automation;Optimizing+Interactive+Experiences">
 </p>
 
 ---
@@ -18,6 +11,20 @@
 > **Passionate about AI, Graphics, & Automation**  
 > **Building cool projects in C++, Python, & GDScript**  
 > **Cyberpunk enthusiast. Dark mode always.**
+
+---
+
+## Tech Stack  
+
+### Programming Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
+</p>
+
+### Game Development  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
+</p>
 
 ---
 
@@ -39,16 +46,12 @@
 
 ---
 
-## Tech Stack  
-
-### Programming Languages  
+## Now Playing on Spotify  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
-</p>
-
-### Game Development  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=daweed.5&cover_image=true&theme=default&show_offline=false&background_color=121212" />
 </p>
 
 ---
+
+**Always building. Always learning.**
+
