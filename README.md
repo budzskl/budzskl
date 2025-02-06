@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./header-new.svg?v=2" width="800" height="200" alt="header">
 </p>
----
 
 ## Tech Stack  
 <p align="center">
