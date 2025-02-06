@@ -33,7 +33,6 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
   - Experimenting with behavior trees
 - Mastering database architecture
   - SQL and NoSQL solutions
-  - Scalable data structures
 
 🤝 **Let's Connect:**
 
