@@ -29,15 +29,11 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
 
 📚 **Deep Diving Into:**
 
-- Building AI-driven NPCs and procedural worlds
+- Building AI Behaviors
   - Experimenting with behavior trees
-  - Implementing dynamic environments
 - Mastering database architecture
   - SQL and NoSQL solutions
   - Scalable data structures
-- Creating robust APIs and integrations
-  - RESTful API design
-  - OAuth workflows
 
 🤝 **Let's Connect:**
 
