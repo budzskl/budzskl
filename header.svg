@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <defs>
+    <!-- Circuit patterns -->
+    <pattern id="circuitPattern" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M10 10 H40 V40 H10 Z" fill="none" stroke="#4CAF50" stroke-width="0.5" opacity="0.2"/>
+      <circle cx="25" cy="25" r="2" fill="#4CAF50" opacity="0.3"/>
+    </pattern>
+    
+    <!-- Animation for the typing effect -->
+    <style type="text/css">
+      @keyframes typing {
+        from { width: 0 }
+        to { width: 100% }
+      }
+      
+      @keyframes blink {
+        0%, 100% { opacity: 0 }
+        50% { opacity: 1 }
+      }
+      
+      @keyframes pulse {
+        0% { stroke-width: 1; opacity: 0.3 }
+        50% { stroke-width: 2; opacity: 0.6 }
+        100% { stroke-width: 1; opacity: 0.3 }
+      }
+      
+      .typing-text {
+        animation: typing 3.5s steps(40, end);
+        white-space: nowrap;
+        overflow: hidden;
+      }
+      
+      .role-text {
+        font-family: 'Orbitron', sans-serif;
+        fill: #4CAF50;
+      }
+      
+      .circuit-line {
+        animation: pulse 4s infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background with circuit pattern -->
+  <rect width="100%" height="100%" fill="url(#circuitPattern)"/>
+  
+  <!-- Decorative circuit lines -->
+  <path class="circuit-line" d="M50,20 H200 V60 H400" stroke="#4CAF50" stroke-width="1" fill="none"/>
+  <path class="circuit-line" d="M750,20 H600 V60 H400" stroke="#4CAF50" stroke-width="1" fill="none"/>
+  <path class="circuit-line" d="M50,180 H300 V140 H500" stroke="#4CAF50" stroke-width="1" fill="none"/>
+  <path class="circuit-line" d="M750,180 H500 V140 H300" stroke="#4CAF50" stroke-width="1" fill="none"/>
+  
+  <!-- Binary rain effect -->
+  <g class="binary-rain" fill="#4CAF50" opacity="0.2">
+    <text x="100" y="30" font-family="monospace">01001</text>
+    <text x="700" y="50" font-family="monospace">10110</text>
+    <text x="200" y="170" font-family="monospace">11001</text>
+    <text x="600" y="150" font-family="monospace">00101</text>
+  </g>
+  
+  <!-- Name -->
+  <text x="400" y="80" font-family="Orbitron" font-size="40" fill="#ffffff" text-anchor="middle" font-weight="bold">
+    Dawid Budz
+  </text>
+  
+  <!-- Animated roles -->
+  <g class="typing-text">
+    <text x="400" y="120" class="role-text" font-size="24" text-anchor="middle">
+      Software Engineer | Game Dev | CS Student
+    </text>
+  </g>
+  
+  <!-- Tech indicators -->
+  <g transform="translate(250, 160)">
+    <circle cx="0" cy="0" r="4" fill="#4CAF50">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite" begin="0s"/>
+    </circle>
+    <circle cx="100" cy="0" r="4" fill="#4CAF50">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite" begin="0.5s"/>
+    </circle>
+    <circle cx="200" cy="0" r="4" fill="#4CAF50">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite" begin="1s"/>
+    </circle>
+    <circle cx="300" cy="0" r="4" fill="#4CAF50">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite" begin="1.5s"/>
+    </circle>
+  </g>
+</svg>
