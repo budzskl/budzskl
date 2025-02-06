@@ -7,7 +7,7 @@
 
 ## Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,unity,unreal,godot" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,unity,unreal,godot,linux,git,github" />
 </p>
 
 ---
