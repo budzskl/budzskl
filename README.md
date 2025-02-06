@@ -44,7 +44,7 @@
 
 ## Now Playing on Spotify  
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_USERNAME_HERE&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=daweed.5&cover_image=true&theme=default&show_offline=false&background_color=121212" />
 </p>
 
 ---
