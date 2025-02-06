@@ -8,13 +8,13 @@
 ---
 
 ## About Me  
-🎮 Passionate Game Developer & Software Engineer crafting immersive experiences using **Godot, Unity, and Unreal Engine**.  
-⚙️ I specialize in **GDScript, C++, and C**, designing performant and scalable software.  
-🌱 Currently diving deep into **AI in game dev, databases, and API integrations**.  
+- Passionate Game Developer & Software Engineer crafting immersive experiences using **Godot, Unity, and Unreal Engine**.  
+- I specialize in **GDScript, C++, and C**, designing performant and scalable software.  
+- Currently diving deep into **AI in game dev, databases, and API integrations**.  
 
 ---
 
-## 🔥 Current Work  
+## Current Work  
  **Working On:** [AutoApply](https://github.com/budzskl/auto-apply) – A tool to automate job applications  
  **Learning:**  
   - 🧠 AI in game development  
