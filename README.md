@@ -19,44 +19,33 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
         <h2>Current Work</h2>
         <p align="left">
           <strong>🛠️ Building:</strong>
-          <br>
-          <a href="https://github.com/budzskl/auto-apply">AutoApply</a> – Revolutionizing the job search process with automation
-          <ul>
-            <li>Streamlines application workflows with intelligent form filling</li>
-            <li>Tracks and manages multiple applications seamlessly</li>
-            <li>Built with Python and modern web automation tools</li>
-            <li>In active development, launching beta version soon</li>
-          </ul>
+          
+[AutoApply](https://github.com/budzskl/auto-apply) – Revolutionizing the job search process with automation
+- Streamlines application workflows with intelligent form filling
+- Tracks and manages multiple applications seamlessly
+- Built with Python and modern web automation tools
+- In active development, launching beta version soon
 
           <strong>📚 Deep Diving Into:</strong>
-          <ul>
-            <li>Building AI-driven NPCs and procedural worlds
-              <ul>
-                <li>Experimenting with behavior trees</li>
-                <li>Implementing dynamic environments</li>
-              </ul>
-            </li>
-            <li>Mastering database architecture
-              <ul>
-                <li>SQL and NoSQL solutions</li>
-                <li>Scalable data structures</li>
-              </ul>
-            </li>
-            <li>Creating robust APIs and integrations
-              <ul>
-                <li>RESTful API design</li>
-                <li>OAuth workflows</li>
-              </ul>
-            </li>
-          </ul>
+          
+- Building AI-driven NPCs and procedural worlds
+  - Experimenting with behavior trees
+  - Implementing dynamic environments
+- Mastering database architecture
+  - SQL and NoSQL solutions
+  - Scalable data structures
+- Creating robust APIs and integrations
+  - RESTful API design
+  - OAuth workflows
 
-          <strong>🤝 Let's Connect:</strong><br><br>
-          <a href="https://www.linkedin.com/in/dawid-budz/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-          </a>
-          <a href="mailto:dawidbudz01@gmail.com">
-            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-          </a>
+          <strong>🤝 Let's Connect:</strong>
+          
+<a href="https://www.linkedin.com/in/dawid-budz/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:dawidbudz01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
         </p>
       </td>
       <td align="center" width="50%">
