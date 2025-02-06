@@ -18,7 +18,7 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
       <td align="center" width="50%">
         <h2>Current Work</h2>
         <p align="left">
-          <strong>🛠️ Building:</strong>
+          🛠️ Building:
           
 [AutoApply](https://github.com/budzskl/auto-apply) – Revolutionizing the job search process with automation
 - Streamlines application workflows with intelligent form filling
