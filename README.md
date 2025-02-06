@@ -30,9 +30,7 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
 ## **Deep Diving Into:**
 
 - Building AI Behaviors
-  - Experimenting with behavior trees
 - Mastering database architecture
-  - SQL and NoSQL solutions
 
 🤝 **Let's Connect:**
 
