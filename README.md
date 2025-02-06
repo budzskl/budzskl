@@ -1,10 +1,65 @@
-<h1 align="center">Dawid Budz</h1>  
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <!-- Background with gradient -->
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a1a1a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2a2a2a;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Animation for the typing effect -->
+    <style type="text/css">
+      @keyframes typing {
+        from { width: 0 }
+        to { width: 100% }
+      }
+      
+      .typing-text {
+        animation: typing 3.5s steps(40, end);
+        white-space: nowrap;
+        overflow: hidden;
+      }
+      
+      .role-text {
+        font-family: 'Orbitron', sans-serif;
+        fill: #4CAF50;
+      }
+    </style>
+  </defs>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=4CAF50&center=true&vCenter=true&width=550&height=50&lines=Software+Engineer;Game+Dev;CS+Student">
-</p>
-
-</p>
+  <!-- Background rectangle -->
+  <rect width="100%" height="100%" fill="url(#headerGradient)" />
+  
+  <!-- Name -->
+  <text x="400" y="60" font-family="Orbitron" font-size="40" fill="#ffffff" text-anchor="middle" font-weight="bold">
+    Dawid Budz
+  </text>
+  
+  <!-- Animated roles -->
+  <g class="typing-text">
+    <text x="400" y="100" class="role-text" font-size="24" text-anchor="middle">
+      Software Engineer | Game Dev | CS Student
+    </text>
+  </g>
+  
+  <!-- Decorative elements -->
+  <path d="M50,140 L750,140" stroke="#4CAF50" stroke-width="2" stroke-dasharray="10,5"/>
+  
+  <!-- Tech icons representation -->
+  <g transform="translate(250, 160)">
+    <circle cx="0" cy="0" r="15" fill="#4CAF50" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="100" cy="0" r="15" fill="#4CAF50" opacity="0.6">
+      <animate attributeName="opacity" values="0.6;0.3;0.6" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="200" cy="0" r="15" fill="#4CAF50" opacity="0.4">
+      <animate attributeName="opacity" values="0.4;0.2;0.4" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="300" cy="0" r="15" fill="#4CAF50" opacity="0.2">
+      <animate attributeName="opacity" values="0.2;0.1;0.2" dur="2s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
 
 ---
 
