@@ -2,6 +2,9 @@
   <img src="./header-new.svg?v=2" width="800" height="200" alt="header">
 </p>
 
+## Hey, I'm Dawid
+<p>Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), and I am passionate about creating reliable solutions and immersive experiences. My interests are in Software Engineering, Game Development, and Quantitative Trading. I've interned at FunnelPot where I worked on AI tools. In my free time, I build games using Godot and develop algorithmic trading strategies using Pine Script. Currently exploring AI integration in game development and working on AutoApply, a tool that streamlines the job application process. Always open to collaborating on innovative projects!</p>
+
 ## Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,unity,unreal,godot" />
