@@ -1,7 +1,7 @@
 <h1 align="center">Dawid Budz</h1>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=F75C7E&center=true&vCenter=true&width=550&height=50&lines=Software+Engineer+%7C+Game+Dev;Game+AI+%26+Automation;Optimizing+Interactive+Experiences">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=4CAF50&center=true&vCenter=true&width=550&height=50&lines=Software+Engineer+%7C+Game+Dev;Passionate+About+Building+Cool+Stuff+With+Code;Game+AI+%26+Automation+Expert;Optimizing+Interactive+Experiences">
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 ## Now Playing on Spotify  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=daweed.5&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=default&show_offline=false&background_color=121212" />
 </p>
 
 ---
