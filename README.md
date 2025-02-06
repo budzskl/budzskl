@@ -1,33 +1,42 @@
-<h1 align="center"> Dawid Budz </h1>
-<h3 align="center"> Software Engineer |  Game Dev |  CS Student</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=F75C7E&center=true&vCenter=true&width=550&height=50&lines=👾+Dawid+Budz+👾;🚀+Software+Engineer+%7C+Game+Dev;💻+Building+Cool+Stuff+With+Code">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=550&lines=Game+Developer+%7C+Software+Engineer;Building+AI-Powered+Games;Automating+Job+Applications;">
+  <img src="https://github.com/budzskl/budzskl/assets/your-image-link" width="600"/>
 </p>
 
 ---
 
-## About Me  
-- Passionate Game Developer & Software Engineer crafting immersive experiences using **Godot, Unity, and Unreal Engine**.  
-- I specialize in **GDScript, C++, and C**, designing performant and scalable software.  
-- Currently diving deep into **AI in game dev, databases, and API integrations**.  
+## 🕹️ About Me  
+> 🚀 **Software Engineer & Game Developer**  
+> 🎮 **Passionate about AI, Graphics, & Automation**  
+> 🛠️ **Building cool projects in C++, Python, & GDScript**  
+> ⚡ **Cyberpunk enthusiast. Dark mode always.**  
 
 ---
 
-## Current Work  
- **Working On:** [AutoApply](https://github.com/budzskl/auto-apply) – A tool to automate job applications  
- **Learning:**  
-  - 🧠 AI in game development  
-  - 🗄️ Databases & backend architecture  
+## 🔥 Current Work  
+🔹 **🚀 Building:** [AutoApply](https://github.com/budzskl/auto-apply) – A tool that automates job applications  
+🔹 **📚 Learning:**  
+  - 🧠 AI-powered game development  
+  - 🗄️ Databases & backend magic  
   - 🔗 API development & integrations  
- **How to reach me:**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-budz/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawidbudz01@gmail.com)  
+🔹 **📡 Connect with me:**  
+<p align="left">
+  <a href="https://www.linkedin.com/in/dawid-budz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dawidbudz01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 🎯 Programming Languages  
+### ⚙️ Programming Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
 </p>
@@ -39,28 +48,24 @@
 
 ### ⚡ Tools & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,sqlite,postman" />
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,sqlite,postman,vscode,neovim" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=budzskl&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budzskl&layout=compact&theme=radical" height="150" />
-</p>
+## 💻 Terminal Profile  
+```console
+$ whoami
+👾 Dawid Budz | Software Engineer & Game Dev
 
----
+$ skills --list
+🎯 C++, Python, C, Java
+🎮 Unity, Unreal Engine, Godot
+📡 APIs, Databases, Web Scraping
+🤖 AI, Automation, Machine Learning
 
-## 🎵 Now Playing  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
-</p>
+$ current_project
+🚀 Developing an AI-powered job application automation tool
 
-
----
-
-## 🎵 Now Playing  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=daweed.5&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
-</p>
+$ now_playing
+🎵 Cyberpunk 2077 OST
