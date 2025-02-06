@@ -24,6 +24,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="50%">
+
 ## Current Work  
 - **Building:** [AutoApply](https://github.com/budzskl/auto-apply) – A tool that automates job applications  
 - **Learning:**  
@@ -31,7 +35,7 @@
   - Databases & backend magic  
   - API development & integrations  
 - **Connect with me:**  
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/dawid-budz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -40,11 +44,20 @@
   </a>
 </p>
 
----
+</td>
+<td width="50%">
 
 ## Now Playing on Spotify  
-<p align="right">
+<p align="center">
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=daweed.5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </p>
+
+</td>
+</tr>
+</table>
+
+---
+
+**Always building. Always learning.**
