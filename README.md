@@ -7,7 +7,7 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
 
 ## Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,unity,unreal,godot,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,sql,unity,unreal,godot,linux,git,github" />
 </p>
 
 ---
