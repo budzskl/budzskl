@@ -17,17 +17,18 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
     <tr>
       <td align="center" width="50%">
         <h2>Current Work</h2>
-        <p align="left">
-          🛠️ Building:
-          
+        
+🛠️ **Building:**
+
 [AutoApply](https://github.com/budzskl/auto-apply) – Revolutionizing the job search process with automation
+
 - Streamlines application workflows with intelligent form filling
 - Tracks and manages multiple applications seamlessly
 - Built with Python and modern web automation tools
 - In active development, launching beta version soon
 
-          <strong>📚 Deep Diving Into:</strong>
-          
+📚 **Deep Diving Into:**
+
 - Building AI-driven NPCs and procedural worlds
   - Experimenting with behavior trees
   - Implementing dynamic environments
@@ -38,15 +39,14 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
   - RESTful API design
   - OAuth workflows
 
-          <strong>🤝 Let's Connect:</strong>
-          
+🤝 **Let's Connect:**
+
 <a href="https://www.linkedin.com/in/dawid-budz/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:dawidbudz01@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-        </p>
       </td>
       <td align="center" width="50%">
         <h2>Now Playing on Spotify</h2>
