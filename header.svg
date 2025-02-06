@@ -35,19 +35,43 @@
   <!-- Decorative line -->
   <path d="M50,140 L750,140" stroke="#4CAF50" stroke-width="2" stroke-dasharray="10,5"/>
   
-  <!-- Animated tech dots -->
+  <!-- Animated tech dots with wave effect -->
   <g transform="translate(250, 160)">
-    <circle cx="0" cy="0" r="15" fill="#4CAF50" opacity="0.8">
-      <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2s" repeatCount="indefinite" />
+    <circle cx="0" cy="0" r="15" fill="#4CAF50">
+      <animate 
+        attributeName="opacity" 
+        values="0.2;1;0.2" 
+        dur="2s" 
+        repeatCount="indefinite"
+        begin="0s"
+      />
     </circle>
-    <circle cx="100" cy="0" r="15" fill="#4CAF50" opacity="0.6">
-      <animate attributeName="opacity" values="0.6;0.3;0.6" dur="2s" repeatCount="indefinite" />
+    <circle cx="100" cy="0" r="15" fill="#4CAF50">
+      <animate 
+        attributeName="opacity" 
+        values="0.2;1;0.2" 
+        dur="2s" 
+        repeatCount="indefinite"
+        begin="0.5s"
+      />
     </circle>
-    <circle cx="200" cy="0" r="15" fill="#4CAF50" opacity="0.4">
-      <animate attributeName="opacity" values="0.4;0.2;0.4" dur="2s" repeatCount="indefinite" />
+    <circle cx="200" cy="0" r="15" fill="#4CAF50">
+      <animate 
+        attributeName="opacity" 
+        values="0.2;1;0.2" 
+        dur="2s" 
+        repeatCount="indefinite"
+        begin="1s"
+      />
     </circle>
-    <circle cx="300" cy="0" r="15" fill="#4CAF50" opacity="0.2">
-      <animate attributeName="opacity" values="0.2;0.1;0.2" dur="2s" repeatCount="indefinite" />
+    <circle cx="300" cy="0" r="15" fill="#4CAF50">
+      <animate 
+        attributeName="opacity" 
+        values="0.2;1;0.2" 
+        dur="2s" 
+        repeatCount="indefinite"
+        begin="1.5s"
+      />
     </circle>
   </g>
 </svg>
