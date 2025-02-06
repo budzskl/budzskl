@@ -6,7 +6,7 @@
 
 - I'm **currently learning** AI in game dev, databases, and API integration
 - My **current project** is [auto-apply](https://github.com/budzskl/auto-apply), an application meant to automate job applications
-- How to **reach me**: [Linkedin](https://www.linkedin.com/in/dawid-budz/) [Email](dawidbudz01@gmail.com)
+- How to **reach me**: [Linkedin](https://www.linkedin.com/in/dawid-budz/), [Email](dawidbudz01@gmail.com)
 
 </p>
 
