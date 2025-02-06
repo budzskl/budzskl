@@ -1,7 +1,7 @@
 <h1 align="center">Dawid Budz</h1>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=4CAF50&center=true&vCenter=true&width=550&height=50&lines=Software+Engineer+%7C+Game+Dev;Crafting+Innovative+Software+Solutions;Optimizing+User+Experiences+Through+Code">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=4CAF50&center=true&vCenter=true&width=550&height=50&lines=Software+Engineer;Game+Dev;CS+Student">
 </p>
 
 </p>
