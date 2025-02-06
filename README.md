@@ -1,13 +1,13 @@
-<h1 align="center">👾 Dawid Budz 👾</h1>
-<h3 align="center">🚀 Software Engineer | 🎮 Game Dev | 🎓 CS Student</h3>
+<h1 align="center"> Hey, I'm Dawid </h1>
+<h3 align="center"> Software Engineer | Game Dev | CS Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=550&lines=Game+Developer+%7C+Software+Engineer;Building+AI-Powered+Games;Automating+Job+Applications;Learning+Low-Level+Systems+Programming">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=550&lines=Game+Developer+%7C+Software+Engineer;Building+AI-Powered+Games;Automating+Job+Applications;">
 </p>
 
 ---
 
-## 🚀 About Me  
+## About Me  
 🎮 Passionate Game Developer & Software Engineer crafting immersive experiences using **Godot, Unity, and Unreal Engine**.  
 ⚙️ I specialize in **GDScript, C++, and C**, designing performant and scalable software.  
 🌱 Currently diving deep into **AI in game dev, databases, and API integrations**.  
