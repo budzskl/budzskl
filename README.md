@@ -12,23 +12,16 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h2>Current Work</h2>
-        
-## **Building:**
+## **Current Work**
 
+### **Building:**
 [AutoApply](https://github.com/budzskl/auto-apply) – Revolutionizing the job search process with automation
-
 - Streamlines application workflows with intelligent form filling
 - Tracks and manages multiple applications seamlessly
 - Built with Python and modern web automation tools
 - In active development, launching beta version soon
 
-## **Deep Diving Into:**
-
+### **Deep Diving Into:**
 - Building AI Behaviors
 - Mastering database architecture
 
@@ -40,15 +33,8 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
 <a href="mailto:dawidbudz01@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-      </td>
-      <td align="center" width="50%">
-        <h2>Now Playing on Spotify</h2>
-        
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=daweed.5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-  </table>
-</div>
 
 ---
 
 **Always building. Always learning.**
+
