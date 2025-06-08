@@ -21,6 +21,13 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
 - Built with Python and modern web automation tools
 - In active development, launching beta version soon
 
+[Strato](https://github.com/budzskl/strato) – Personal productivity dashboard hosted on a Raspberry Pi  
+- Combines calendar scheduling, markdown notes, and task tracking in a single unified tool  
+- Built with Flask and React, designed for self-hosted usage on a Raspberry Pi 4  
+- Enables persistent access across devices for task management and daily planning  
+- Inspired by tools like Notion and Google Calendar, built for focus and flexibility
+
+
 ### **Deep Diving Into:**
 - Building AI Behaviors
 - Mastering database architecture
