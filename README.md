@@ -3,11 +3,11 @@
 </p>
 
 ## Hey, I'm Dawid 👋
-Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), and I am passionate about creating reliable solutions and immersive experiences. My interests are in Software Engineering, Game Development, and Quantitative Trading. I've interned at FunnelPot where I worked on AI tools. In my free time, I build games using Godot and develop algorithmic trading strategies using Pine Script. Currently exploring AI integration in game development and working on AutoApply, a tool that streamlines the job application process. Always open to collaborating on innovative projects!
+Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), and I am passionate about creating reliable solutions and immersive experiences. My interests are in Software Engineering and Game Development. In my free time, I build games using Godot and C++. Currently building Strato, a personal organization tool for all my projects and task. Also looking into building a C++ game engine for experimentation. 
 
 ## Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,mysql,unity,unreal,godot,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,unity,unreal,godot,linux,git,github,docker" />
 </p>
 
 ---
@@ -15,11 +15,6 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
 ## **Current Work**
 
 ### **Building:**
-[AutoApply](https://github.com/budzskl/auto-apply) – Revolutionizing the job search process with automation
-- Streamlines application workflows with intelligent form filling
-- Tracks and manages multiple applications seamlessly
-- Built with Python and modern web automation tools
-- In active development, launching beta version soon
 
 [Strato](https://github.com/budzskl/strato) – Personal productivity dashboard hosted on a Raspberry Pi  
 - Combines calendar scheduling, markdown notes, and task tracking in a single unified tool  
@@ -29,8 +24,8 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
 
 
 ### **Deep Diving Into:**
-- Building AI Behaviors
-- Mastering database architecture
+- C++ game development
+- Python web building
 
 🤝 **Let's Connect:**
 
@@ -42,6 +37,3 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
 </a>
 
 ---
-
-**Always building. Always learning.**
-
