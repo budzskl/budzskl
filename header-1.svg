@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350">
- <text x="30" y="80" text-anchor="start" fill="white" font-size="50" font-family="math">Dawid Budz</text>
- <rect x="30" y="100" width="620" height="6" fill="rgba(255,255,255,0.184)" stroke="rgba(255,255,255,0.123)" rx="3"/>
- <text x="30" y="140" fill="white" font-size="24" font-family="math">Software Engineer</text>
- <text x="250" y="140" fill="white" font-size="24" font-family="math">Game Developer</text>
- <text x="450" y="140" fill="white" font-size="24" font-family="math">CS Student</text>
- <rect x="230" y="115" width="4" height="35" fill="rgba(255,255,255,0.184)" stroke="rgba(255,255,255,0.123)" rx="2"/>
- <rect x="430" y="115" width="4" height="35" fill="rgba(255,255,255,0.184)" stroke="rgba(255,255,255,0.123)" rx="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <text x="400" y="60" text-anchor="middle" fill="white" font-size="48" font-family="Arial">Dawid Budz</text>
+  <rect x="200" y="80" width="400" height="4" fill="rgba(255,255,255,0.2)" rx="2"/>
+  <text x="280" y="120" text-anchor="middle" fill="white" font-size="16" font-family="Arial">Software Engineer</text>
+  <text x="400" y="120" text-anchor="middle" fill="white" font-size="16" font-family="Arial">Game Developer</text>
+  <text x="520" y="120" text-anchor="middle" fill="white" font-size="16" font-family="Arial">CS Student</text>
+  <rect x="338" y="100" width="2" height="25" fill="rgba(255,255,255,0.2)" rx="1"/>
+  <rect x="460" y="100" width="2" height="25" fill="rgba(255,255,255,0.2)" rx="1"/>
 </svg>
