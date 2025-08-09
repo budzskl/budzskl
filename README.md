@@ -2,7 +2,6 @@
   <img src="./header-1.svg?v=2" width="800" height="200" alt="header">
 </p>
 
-## Hey, I'm Dawid 👋
 Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), and I am passionate about creating reliable solutions and immersive experiences. My interests are in Software Engineering and Game Development. In my free time, I build games using Godot and C++. Currently building Strato, a personal organization tool for all my projects and task. Also looking into building a C++ game engine for experimentation. 
 
 ## Tech Stack  
