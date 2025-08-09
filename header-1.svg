@@ -1,9 +1,82 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
-  <text x="400" y="60" text-anchor="middle" fill="white" font-size="48" font-family="Arial">Dawid Budz</text>
-  <rect x="200" y="80" width="400" height="4" fill="rgba(255,255,255,0.2)" rx="2"/>
-  <text x="280" y="120" text-anchor="middle" fill="white" font-size="16" font-family="Arial">Software Engineer</text>
-  <text x="400" y="120" text-anchor="middle" fill="white" font-size="16" font-family="Arial">Game Developer</text>
-  <text x="520" y="120" text-anchor="middle" fill="white" font-size="16" font-family="Arial">CS Student</text>
-  <rect x="338" y="100" width="2" height="25" fill="rgba(255,255,255,0.2)" rx="1"/>
-  <rect x="460" y="100" width="2" height="25" fill="rgba(255,255,255,0.2)" rx="1"/>
+  <defs>
+    <!-- Circuit patterns -->
+    <pattern id="circuitPattern" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M10 10 H40 V40 H10 Z" fill="none" stroke="rgba(106,189,248,0.655)" stroke-width="0.5" opacity="0.2"/>
+      <circle cx="25" cy="25" r="2" fill="rgba(106,189,248,0.655)" opacity="0.3"/>
+    </pattern>
+    
+    <!-- Animation for the typing effect -->
+    <style type="text/css">
+      @keyframes typing {
+        from { width: 0 }
+        to { width: 100% }
+      }
+      
+      @keyframes blink {
+        0%, 100% { opacity: 0 }
+        50% { opacity: 1 }
+      }
+      
+      @keyframes pulse {
+        0% { stroke-width: 1; opacity: 0.3 }
+        50% { stroke-width: 2; opacity: 0.6 }
+        100% { stroke-width: 1; opacity: 0.3 }
+      }
+      
+      .typing-text {
+        animation: typing 3.5s steps(40, end);
+        white-space: nowrap;
+        overflow: hidden;
+      }
+      
+      .role-text {
+        font-family: 'Orbitron', sans-serif;
+        fill: rgba(143,143,143,0.45);
+      }
+      
+      .circuit-line {
+        animation: pulse 4s infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background with circuit pattern -->
+  <rect width="100%" height="100%" fill="url(#circuitPattern)"/>
+  
+  <!-- Decorative circuit lines - moved down -->
+  <path class="circuit-line" d="M50,40 H200 V80 H400" stroke="rgba(106,189,248,0.655)" stroke-width="1" fill="none"/>
+  <path class="circuit-line" d="M750,40 H600 V80 H400" stroke="rgba(106,189,248,0.655)" stroke-width="1" fill="none"/>
+  <path class="circuit-line" d="M50,180 H300 V140 H500" stroke="rgba(106,189,248,0.655)" stroke-width="1" fill="none"/>
+  <path class="circuit-line" d="M750,180 H500 V140 H300" stroke="rgba(106,189,248,0.655)" stroke-width="1" fill="none"/>
+  
+
+  
+  <!-- Name - moved up -->
+  <text x="400" y="60" font-family="Orbitron" font-size="40" fill="rgba(143,143,143,0.45)" text-anchor="middle" font-weight="bold">
+    Dawid Budz
+  </text>
+  
+  <!-- Animated roles - adjusted spacing -->
+  <g class="typing-text">
+    <text x="400" y="110" class="role-text" font-size="24" text-anchor="middle">
+      Software Engineer | Game Dev | CS Student
+    </text>
+  </g>
+  
+  <!-- Tech indicators - moved up slightly -->
+  <g transform="translate(250, 150)">
+    <circle cx="0" cy="0" r="4" fill="rgba(106,189,248,0.655)">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite" begin="0s"/>
+    </circle>
+    <circle cx="100" cy="0" r="4" fill="rgba(106,189,248,0.655)">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite" begin="0.5s"/>
+    </circle>
+    <circle cx="200" cy="0" r="4" fill="rgba(106,189,248,0.655)">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite" begin="1s"/>
+    </circle>
+    <circle cx="300" cy="0" r="4" fill="rgba(106,189,248,0.655)">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite" begin="1.5s"/>
+    </circle>
+  </g>
 </svg>
