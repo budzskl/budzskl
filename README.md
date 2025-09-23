@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="./header-1.svg?v=2" width="800" height="200" alt="header">
-</p>
-
-Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), and I am passionate about creating reliable solutions and immersive experiences. My interests are in Software Engineering and Game Development. In my free time, I build games using Godot and C++. Currently building Strato, a personal organization tool for all my projects and task. Also looking into building a C++ game engine for experimentation. 
+Thanks for stopping by on my GitHub! I am a CS student at UIC , and I am passionate about creating reliable solutions and immersive experiences. My interests are in Software Engineering and Game Development. In my free time, I build games using Godot and C++ via Game Jams. Currently building Strato, a personal organization tool for all my projects and task. Also looking into building a C++ game engine for experimentation. 
 
 ## Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,unity,unreal,godot,linux,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,unity,unreal,godot,linux,git,github,docker,sql,arduino,bitbucket,cmake,flask," />
 </p>
 
 ---
@@ -17,7 +13,7 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC (Class of 2026), a
 
 [Strato](https://github.com/budzskl/strato) – Personal productivity dashboard hosted on a Raspberry Pi  
 - Combines calendar scheduling, markdown notes, and task tracking in a single unified tool  
-- Built with Flask and React, designed for self-hosted usage on a Raspberry Pi 4  
+- Built with Flask and React, planning for self-hosted usage on a Raspberry Pi 4  
 - Enables persistent access across devices for task management and daily planning  
 - Inspired by tools like Notion and Google Calendar, built for focus and flexibility
 
