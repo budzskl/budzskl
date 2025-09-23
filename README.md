@@ -2,7 +2,7 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC , and I am passion
 
 ## Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,unity,unreal,godot,linux,git,github,docker,sql,arduino,bitbucket,cmake,flask," />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,unity,unreal,godot,linux,git,github,docker,arduino,bitbucket,cmake,flask," />
 </p>
 
 ---
