@@ -17,7 +17,7 @@ Thanks for stopping by on my GitHub! I am a CS student at UIC , and I am passion
 - Enables persistent access across devices for task management and daily planning  
 - Inspired by tools like Notion and Google Calendar, built for focus and flexibility
 
-[Budz Engine]
+[Budz Engine](https://github.com/budzskl/budz_engine)
 - starting game engine development in C++
 
 
